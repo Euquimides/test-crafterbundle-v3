@@ -711,7 +711,7 @@
 						</property>
 						<property>
 							<name>itemManager</name>
-							<value></value>
+							<value>fileBrowser</value>
 							<type>datasource:item</type>
 						</property>
 						<property>
