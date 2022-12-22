@@ -1,20 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!--
-  ~ Copyright (C) 2007-2020 Crafter Software Corporation. All Rights Reserved.
-  ~
-  ~ This program is free software: you can redistribute it and/or modify
-  ~ it under the terms of the GNU General Public License version 3 as published by
-  ~ the Free Software Foundation.
-  ~
-  ~ This program is distributed in the hope that it will be useful,
-  ~ but WITHOUT ANY WARRANTY; without even the implied warranty of
-  ~ MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
-  ~ GNU General Public License for more details.
-  ~
-  ~ You should have received a copy of the GNU General Public License
-  ~ along with this program.  If not, see <http://www.gnu.org/licenses/>.
-  --><page>
-	<content-type>/page/category-landing</content-type>	<display-template>/templates/web/pages/category-landing.ftl</display-template>
+<page>
+	<content-type>/page/category-landing</content-type>
+	<display-template>/templates/web/pages/category-landing.ftl</display-template>
+	<no-template-required/>
 	<merge-strategy>inherit-levels</merge-strategy>
 	<objectGroupId>c84ba82c</objectGroupId>
 	<objectId>c84ba82c-8ca2-400e-81e0-760c7ab67c93</objectId>
@@ -27,10 +15,13 @@
 	<orderDefault_f>0.0</orderDefault_f>
 	<createdDate>2022-12-22T16:35:40.948Z</createdDate>
 	<createdDate_dt>2022-12-22T16:35:40.948Z</createdDate_dt>
-	<lastModifiedDate>2022-12-22T16:35:40.948Z</lastModifiedDate>
-	<lastModifiedDate_dt>2022-12-22T16:35:40.948Z</lastModifiedDate_dt>
+	<lastModifiedDate>2022-12-22T16:35:41.770Z</lastModifiedDate>
+	<lastModifiedDate_dt>2022-12-22T16:35:41.770Z</lastModifiedDate_dt>
 	<left-rail/>
 	<category_s>style</category_s>
 	<max_articles_i>10</max_articles_i>
 	<articles_title_t>Style</articles_title_t>
+	<disabled>false</disabled>
+	<header_o item-list="true"/>
+	<left-rail_o item-list="true"/>
 </page>
